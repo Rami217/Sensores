@@ -1,0 +1,46 @@
+# Clasificación de Sensores
+
+## Según su Funcionamiento
+- **Activos:** Requieren una fuente de energía auxiliar para su operación.
+  - Ejemplo: Sensores ultrasónicos, sensores láser.
+  ![Sensor Ultrasónico](https://www.luisllamas.es/wp-content/uploads/2016/12/sensor-ultrasonico-hc-sr04.jpg)
+
+- **Pasivos:** No requieren fuente de energía auxiliar, detectan señales del entorno.
+  - Ejemplo: Sensores fotoeléctricos, termopares.
+  ![Sensor Fotoeléctrico](https://www.picclickimg.com/d/l400/pict/283518996605_/Sensor-Fotoelectrico-Difuso-E3Z-D62-Omron-12-24v-Dc.jpg)
+
+## Según las Señales que Proporcionan
+- **Digitales:** Generan señales discretas (0 o 1, encendido o apagado).
+  - Ejemplo: Sensores de final de carrera, encoders.
+  ![Sensor Final de Carrera](https://images-na.ssl-images-amazon.com/images/I/61ml9xdqwpL._AC_SL1000_.jpg)
+
+- **Analógicos:** Generan señales continuas (voltaje o corriente proporcional a la magnitud medida).
+  - Ejemplo: Sensores de temperatura, sensores de presión.
+  ![Sensor de Temperatura](https://www.luisllamas.es/wp-content/uploads/2016/09/temp-sensor.jpg)
+
+## Según la Naturaleza de su Funcionamiento
+- **Moduladores:** Modifican una señal de entrada en función de la magnitud a medir.
+  - Ejemplo: Sensores capacitivos, sensores inductivos.
+  ![Sensor Capacitivo](https://www.industrias.com.mx/wp-content/uploads/2017/03/sensor-capacitivo.jpg)
+
+- **Generadores:** Generan una señal eléctrica a partir de la magnitud a medir.
+  - Ejemplo: Termopares, galgas extensométricas.
+  ![Galga Extensométrica](https://www.luisllamas.es/wp-content/uploads/2016/11/strain-gauge.png)
+
+## Según los Elementos Utilizados en su Fabricación
+- **Resistivos:** Utilizan la variación de la resistencia eléctrica.
+  - Ejemplo: Termistores, fotorresistencias.
+  ![Termistor](https://www.luisllamas.es/wp-content/uploads/2016/09/termistor.jpg)
+
+- **Semiconductores:** Utilizan propiedades de semiconductores.
+  - Ejemplo: Fotodiodos, fototransistores.
+  ![Fotodiodo](https://www.luisllamas.es/wp-content/uploads/2016/11/fotodiodo.jpg)
+
+- **Piezoeléctricos:** Utilizan el efecto piezoeléctrico (tensión eléctrica por deformación mecánica).
+  - Ejemplo: Acelerómetros, sensores de fuerza.
+  ![Acelerómetro Piezoeléctrico](https://www.pcbway.com/blog/wp-content/uploads/2022/11/piezo-accelerometer.png)
+
+# Hojas de Datos
+- [Hoja de Datos Sensor Ultrasónico HC-SR04](https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf)
+- [Hoja de Datos Sensor Fotoeléctrico Omron E3Z](https://omronfscd.omron.com.mx/es_es/productos/pdf/E3Z.pdf)
+- [Hoja de Datos Termistor NTC](https://www.vishay.com/docs/29078/ntcapp.pdf)
